@@ -1,8 +1,8 @@
-#include <iostream>
-#include "liczby.h"
+#include <iostream>//Nie działa, niestety nie znalazłem błędu
+#include "liczby.h"//Pisałem w Codeblocks, inne pliki działały bez problemów
 #include "odejmowanie.h"
-//#include "dzielenie.h"
-//#include "mnozenie.h"
+#include "dzielenie.h"
+#include "mnozenie.h"
 using namespace std;
 
 int main()
